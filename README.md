@@ -55,9 +55,6 @@ When contributing, please follow these guidelines:
 - Test the code thoroughly with different inputs to ensure its correctness.
 - Follow the coding style and formatting conventions used in the existing notebooks.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Acknowledgments
 
