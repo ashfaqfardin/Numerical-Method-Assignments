@@ -13,6 +13,7 @@ The repository contains the following Jupyter Notebook files:
 5. [1930087_Lab_5_Section_2.ipynb](1930087_Lab_5_Section_2.ipynb)
 6. [1930087_Lab_6_Section_2.ipynb](1930087_Lab_6_Section_2.ipynb)
 7. [1930087_Lab_7_Section_2.ipynb](1930087_Lab_7_Section_2.ipynb)
+8. [1930087_Lab_Final_Assignment.ipynb](1930087_Lab_Final_Assignment.ipynb)
 
 Please click on the respective file links to view the contents of each notebook.
 
